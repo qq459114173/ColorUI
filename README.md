@@ -1,4 +1,3 @@
-<p style="text-align: center;"><img src="https://www.icspec.com/common/test.jpg" alt="ColorUI简介"></img></p>
 
 ## 前言
 这是一款适应于H5、微信小程序、安卓、ios、支付宝的高颜值，高度自定义的Css组件库！
@@ -87,6 +86,8 @@ Vue.component('cu-custom',cuCustom)
 
 
 ------
+
+<p style="text-align: center;"><img src="https://www.icspec.com/common/test.jpg" alt="ColorUI简介"></img></p>
 
 
 ## 使用自定义Tabbar
