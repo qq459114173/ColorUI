@@ -1,6 +1,8 @@
-<p style="text-align: center;"><img src="https://image.weilanwl.com/uni/UniAppReadme.jpg" alt="ColorUI简介"></img></p>
+<p style="text-align: center;"><img src="https://www.icspec.com/common/test.jpg" alt="ColorUI简介"></img></p>
 
 ## 前言
+这是一款适应于H5、微信小程序、安卓、ios、支付宝的高颜值，高度自定义的Css组件库！
+
 ColorUI是一个css库！！！在你引入样式后可以根据class来调用组件，一些含有交互的操作我也有简单写，可以为你开发提供一些思路。插件市场版本如果和更新日志不一样，请移步Github下载。有组件需求或者Bug提交也可以移步到issues。
 
  
