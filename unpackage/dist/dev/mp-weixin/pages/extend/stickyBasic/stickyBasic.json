@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "Sticky粘性布局",
+  "usingComponents": {
+    "tui-sticky": "/components/thorui/tui-sticky/tui-sticky"
+  }
+}

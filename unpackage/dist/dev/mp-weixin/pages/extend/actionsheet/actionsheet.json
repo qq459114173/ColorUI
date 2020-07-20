@@ -1,0 +1,9 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "操作菜单",
+  "usingComponents": {
+    "tui-button": "/components/thorui/tui-button/tui-button",
+    "tui-actionsheet": "/components/thorui/tui-actionsheet/tui-actionsheet"
+  }
+}

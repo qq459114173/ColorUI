@@ -1,0 +1,2 @@
+<wxs src="./tui-sticky.wxs" module="parse"></wxs>
+<view class="tui-sticky-class data-v-5f0c4e11" change:prop="{{parse.stickyChange}}" prop="{{scrollTop}}" data-top="{{top}}" data-height="{{height}}" data-stickytop="{{stickyTop}}" data-container="{{container}}" data-isNativeHeader="{{isNativeHeader}}" data-index="{{index}}"><view class="tui-sticky-seat data-v-5f0c4e11" style="{{'height:'+(stickyHeight)+';'+('background-color:'+(backgroundColor)+';')}}"></view><view class="tui-sticky-bar data-v-5f0c4e11"><slot name="header"></slot></view><slot name="content"></slot></view>

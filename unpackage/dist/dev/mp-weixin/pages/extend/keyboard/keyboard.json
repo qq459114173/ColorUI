@@ -1,0 +1,10 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "数字键盘",
+  "usingComponents": {
+    "tui-button": "/components/thorui/tui-button/tui-button",
+    "tui-keyboard": "/components/thorui/tui-keyboard/tui-keyboard",
+    "tui-keyboard-input": "/components/thorui/tui-keyboard-input/tui-keyboard-input"
+  }
+}

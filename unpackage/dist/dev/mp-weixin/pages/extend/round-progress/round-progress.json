@@ -1,0 +1,9 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "圆形进度条",
+  "usingComponents": {
+    "tui-round-progress": "/components/thorui/tui-round-progress/tui-round-progress",
+    "tui-button": "/components/thorui/tui-button/tui-button"
+  }
+}

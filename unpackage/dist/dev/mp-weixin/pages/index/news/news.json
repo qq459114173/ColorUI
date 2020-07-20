@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "新闻列表",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "tui-loadmore": "/components/thorui/tui-loadmore/tui-loadmore",
+    "tui-nomore": "/components/thorui/tui-nomore/tui-nomore"
+  }
+}

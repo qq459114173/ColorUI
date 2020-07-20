@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "弹层、下拉选择",
+  "disableScroll": true,
+  "usingComponents": {
+    "tui-icon": "/components/thorui/tui-icon/tui-icon",
+    "tui-top-dropdown": "/components/thorui/tui-top-dropdown/tui-top-dropdown",
+    "tui-button": "/components/thorui/tui-button/tui-button",
+    "tui-dropdown-list": "/components/thorui/tui-dropdown-list/tui-dropdown-list",
+    "tui-list-cell": "/components/thorui/tui-list-cell/tui-list-cell",
+    "tui-bottom-popup": "/components/thorui/tui-bottom-popup/tui-bottom-popup"
+  }
+}

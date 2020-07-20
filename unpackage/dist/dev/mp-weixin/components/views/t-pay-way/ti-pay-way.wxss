@@ -1,0 +1,58 @@
+
+.tui-pay-item__title.data-v-56d30cb7 {
+	width: 100%;
+	height: 90rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	padding: 0 20rpx;
+	box-sizing: border-box;
+	font-size: 28rpx;
+}
+.tui-pay-amuont.data-v-56d30cb7 {
+	color: #eb0909;
+	font-weight: 500;
+	font-size: 34rpx;
+}
+.tui-pay-item.data-v-56d30cb7 {
+	width: 100%;
+	height: 80rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	padding: 0 20rpx;
+	box-sizing: border-box;
+	font-size: 28rpx;
+}
+.tui-pay-logo.data-v-56d30cb7 {
+	width: 48rpx;
+	height: 48rpx;
+	margin-right: 15rpx;
+}
+.tui-radio.data-v-56d30cb7 {
+	margin-left: auto;
+	-webkit-transform: scale(0.8);
+	        transform: scale(0.8);
+	-webkit-transform-origin: 100% center;
+	        transform-origin: 100% center;
+}
+.tui-btn-pay.data-v-56d30cb7 {
+	width: 100%;
+	padding: 68rpx 35rpx 50rpx 35rpx;
+	box-sizing: border-box;
+}
+.tui-recharge.data-v-56d30cb7 {
+	color: #fc872d;
+	margin-left: auto;
+	padding: 12rpx 0;
+}
+

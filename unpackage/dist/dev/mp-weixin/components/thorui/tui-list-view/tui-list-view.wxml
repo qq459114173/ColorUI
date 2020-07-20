@@ -1,0 +1,1 @@
+<view class="tui-list-view tui-view-class data-v-3d40c2d1" style="{{'background-color:'+(backgroundColor)+';'}}"><block wx:if="{{title}}"><view class="tui-list-title data-v-3d40c2d1">{{title}}</view></block><view class="{{['tui-list-content data-v-3d40c2d1',unlined?'tui-border-'+unlined:'']}}"><slot></slot></view></view>

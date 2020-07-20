@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "步骤条",
+  "usingComponents": {
+    "tui-steps": "/components/thorui/tui-steps/tui-steps",
+    "tui-button": "/components/thorui/tui-button/tui-button"
+  }
+}

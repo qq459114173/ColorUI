@@ -1,0 +1,13 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "图片裁剪",
+  "titleNView": false,
+  "navigationStyle": "custom",
+  "disableScroll": true,
+  "usingComponents": {
+    "tui-icon": "/components/thorui/tui-icon/tui-icon",
+    "tui-button": "/components/thorui/tui-button/tui-button",
+    "tui-picture-cropper": "/components/thorui/tui-picture-cropper/tui-picture-cropper"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "气泡弹框",
+  "usingComponents": {
+    "tui-button": "/components/thorui/tui-button/tui-button",
+    "tui-bubble-popup": "/components/thorui/tui-bubble-popup/tui-bubble-popup",
+    "t-rt-popup": "/components/views/t-rt-popup/t-rt-popup"
+  }
+}

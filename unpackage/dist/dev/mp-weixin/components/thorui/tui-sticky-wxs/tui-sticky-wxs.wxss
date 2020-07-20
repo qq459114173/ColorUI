@@ -1,0 +1,11 @@
+
+.tui-sticky-fixed.data-v-5f0c4e11 {
+	width: 100%;
+	position: fixed;
+	left: 0;
+	z-index: 998;
+}
+.tui-sticky-seat.data-v-5f0c4e11 {
+	display: none;
+}
+

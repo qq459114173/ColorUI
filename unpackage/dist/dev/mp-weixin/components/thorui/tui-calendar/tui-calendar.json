@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tui-button": "/components/thorui/tui-button/tui-button"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "滑动菜单",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "tui-swipe-action": "/components/thorui/tui-swipe-action/tui-swipe-action",
+    "tui-icon": "/components/thorui/tui-icon/tui-icon"
+  }
+}

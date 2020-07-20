@@ -1,0 +1,10 @@
+{
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "backgroundColorTop": "#fff",
+  "navigationBarTitleText": "卡片轮播",
+  "usingComponents": {
+    "tui-icon": "/components/thorui/tui-icon/tui-icon",
+    "tui-countdown": "/components/thorui/tui-countdown/tui-countdown"
+  }
+}

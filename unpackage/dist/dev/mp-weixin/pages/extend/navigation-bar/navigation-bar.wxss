@@ -1,0 +1,116 @@
+
+.container {
+	padding-bottom: 120rpx;
+	box-sizing: border-box;
+}
+.header {
+	padding: 80rpx 90rpx 60rpx 90rpx;
+	box-sizing: border-box;
+}
+.title {
+	font-size: 34rpx;
+	color: #333;
+	font-weight: 500;
+}
+.sub-title {
+	font-size: 24rpx;
+	color: #7a7a7a;
+	padding-top: 18rpx;
+}
+.tui-title {
+	width: 100%;
+	padding: 50rpx 30rpx 30rpx;
+	box-sizing: border-box;
+	font-weight: bold;
+}
+.tui-header-bg {
+	width: 100%;
+	margin: 0;
+}
+.tui-header-img {
+	width: 100%;
+	height: 440rpx;
+	display: block;
+}
+.tui-header-icon {
+	width: 100%;
+	position: fixed;
+	top: 0;
+	padding: 0 12rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	height: 32px;
+	-webkit-transform: translateZ(0);
+	        transform: translateZ(0);
+	z-index: 99999;
+	box-sizing: border-box;
+}
+.tui-content-box {
+	width: 100%;
+	height: 44px;
+	padding: 0 30rpx;
+	box-sizing: border-box;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.tui-avatar-box {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	border: 1px solid #eaeef1;
+	-webkit-flex-shrink: 0;
+	        flex-shrink: 0;
+}
+.tui-avatar {
+	width: 28px;
+	height: 28px;
+	border-radius: 50%;
+}
+.tui-search-box {
+	width: 100%;
+	height: 32px;
+	margin: 0 28rpx;
+	border-radius: 18px;
+	font-size: 14px;
+	background-color: #f1f1f1;
+	padding: 0 12px;
+	box-sizing: border-box;
+	color: #bfbfbf;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.tui-bg-white {
+	background-color: #ffffff !important;
+}
+.tui-search-text {
+	padding-left: 10rpx;
+}
+.tui-notice-box {
+	position: relative;
+	-webkit-flex-shrink: 0;
+	        flex-shrink: 0;
+	font-size: 44rpx;
+	color: #fff;
+}
+

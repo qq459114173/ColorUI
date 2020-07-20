@@ -1,0 +1,1 @@
+<view class="tui-loadmore data-v-fbbae99e"><view class="{{['data-v-fbbae99e','tui-loading-'+index,index==3&&type?'tui-loading-'+type:'']}}"></view><view class="tui-loadmore-tips data-v-fbbae99e">{{text}}</view></view>

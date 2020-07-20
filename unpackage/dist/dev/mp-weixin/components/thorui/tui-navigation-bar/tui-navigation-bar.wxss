@@ -1,0 +1,42 @@
+
+.tui-navigation-bar.data-v-1b26b291 {
+	width: 100%;
+}
+.tui-navbar-fixed.data-v-1b26b291 {
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: 9998;
+}
+.tui-status-bar.data-v-1b26b291 {
+	width: 100%;
+}
+.tui-navigation_bar-title.data-v-1b26b291 {
+	width: 100%;
+	font-size: 17px;
+	line-height: 17px;
+
+	font-weight: 500;
+
+	height: 32px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.tui-bar-line.data-v-1b26b291::after {
+	content: '';
+	position: absolute;
+	border-bottom: 1rpx solid #eaeef1;
+	-webkit-transform: scaleY(0.5);
+	transform: scaleY(0.5);
+	bottom: 0;
+	right: 0;
+	left: 0;
+}
+

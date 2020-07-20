@@ -1,0 +1,12 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "NavBar自定义导航栏",
+  "titleNView": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "tui-navigation-bar": "/components/thorui/tui-navigation-bar/tui-navigation-bar",
+    "tui-icon": "/components/thorui/tui-icon/tui-icon",
+    "tui-badge": "/components/thorui/tui-badge/tui-badge"
+  }
+}

@@ -1,0 +1,91 @@
+@charset "UTF-8";
+/**
+ * scss预处理 内置的常用样式变量
+ * 后期项目会考虑使用scss
+*/
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.container {
+  padding: 20rpx 0 48rpx;
+}
+.container .tui-message-item {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  box-sizing: border-box;
+}
+.container .tui-message-item .tui-title {
+  font-size: 32rpx;
+}
+.container .tui-message-item .tui-sub-title {
+  font-size: 24rpx;
+  color: #999;
+  padding-top: 4rpx;
+}
+.container .tui-message-item .tui-title-box {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.container .tui-message-item .tui-title-box .tui-icon-box {
+  width: 88rpx;
+  height: 88rpx;
+  color: #fff;
+  border-radius: 12rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  margin-right: 20rpx;
+}
+.container .tui-message-item .tui-title-box .tui-bg-danger {
+  background-color: #EB0909;
+}
+.container .tui-message-item .tui-title-box .tui-bg-warning {
+  background-color: #ff7900;
+}
+.container .tui-message-item .tui-title-box .tui-bg-success {
+  background-color: #19be6b;
+}
+.container .tui-message-item .tui-title-box .tui-bg-primary {
+  background-color: #5677fc;
+}
+.container .tui-message-item .tui-title-box .tui-bg-pink {
+  background-color: #f74d54;
+}
+.container .tui-message-item .tui-title-box .tui-bg-blue {
+  background-color: #5677fc;
+}
+.container .tui-top {
+  margin-top: 20rpx;
+}
+

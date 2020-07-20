@@ -1,0 +1,55 @@
+
+.tui-title {
+	padding: 50rpx 30rpx 30rpx;
+	color: #2C405A;
+}
+.tui-tag {
+	width: 200rpx;
+	height: 80rpx;
+	margin-left: 30rpx;
+	background-color: #5677fc;
+	color: #fff;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	border-radius: 6rpx;
+}
+.tui-green {
+	background-color: #19be6b !important;
+}
+.tui-danger {
+	background-color: #EB0909 !important;
+}
+.tui-center {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.tui-right {
+	width: 100%;
+	padding: 0 30rpx;
+	box-sizing: border-box;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: end;
+	-webkit-justify-content: flex-end;
+	        justify-content: flex-end;
+}
+.tui-box {
+	width: 100%;
+	height: 300rpx;
+	padding: 30rpx;
+	box-sizing: border-box;
+	background-color: #fff;
+}
+

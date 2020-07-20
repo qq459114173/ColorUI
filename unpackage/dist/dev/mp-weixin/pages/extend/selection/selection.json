@@ -1,0 +1,10 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "级联选择",
+  "usingComponents": {
+    "tui-cascade-selection": "/components/thorui/tui-cascade-selection/tui-cascade-selection",
+    "tui-button": "/components/thorui/tui-button/tui-button",
+    "tui-bottom-popup": "/components/thorui/tui-bottom-popup/tui-bottom-popup"
+  }
+}

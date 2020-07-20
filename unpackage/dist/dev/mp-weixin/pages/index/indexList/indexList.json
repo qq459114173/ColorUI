@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "索引列表",
+  "disableScroll": true,
+  "usingComponents": {
+    "tui-button": "/components/thorui/tui-button/tui-button"
+  }
+}

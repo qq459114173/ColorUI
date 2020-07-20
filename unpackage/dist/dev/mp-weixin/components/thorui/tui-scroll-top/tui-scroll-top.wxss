@@ -1,0 +1,50 @@
+
+.tui-scroll-top_box.data-v-c158019e {
+	width: 80rpx;
+	height: 270rpx;
+	position: fixed;
+	z-index: 9999;
+	right: 30rpx;
+	bottom: 30rpx;
+	font-weight: 400;
+}
+.tui-scroll-top_item.data-v-c158019e {
+	width: 80rpx;
+	height: 80rpx;
+	position: relative;
+}
+.tui-scroll-item_top.data-v-c158019e {
+	margin-top: 30rpx;
+}
+.tui-scroll-top_img.data-v-c158019e {
+	width: 80rpx;
+	height: 80rpx;
+	display: block;
+}
+.tui-scroll-top_text.data-v-c158019e {
+	width: 80rpx;
+	text-align: center;
+	font-size: 24rpx;
+	line-height: 24rpx;
+	-webkit-transform: scale(0.92);
+	        transform: scale(0.92);
+	-webkit-transform-origin: center center;
+	        transform-origin: center center;
+	position: absolute;
+	left: 0;
+	bottom: 15rpx;
+}
+.tui-color-white.data-v-c158019e {
+	color: #fff;
+}
+.tui-share-btn.data-v-c158019e {
+	background: transparent !important;
+	padding: 0;
+	margin: 0;
+	display: inline;
+	border: 0;
+}
+.tui-share-btn.data-v-c158019e::after {
+	border: 0;
+}
+

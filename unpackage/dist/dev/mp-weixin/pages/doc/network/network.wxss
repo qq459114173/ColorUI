@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/**
+ * scss预处理 内置的常用样式变量
+ * 后期项目会考虑使用scss
+*/
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.container {
+  width: 100%;
+  padding: 30rpx;
+  box-sizing: border-box;
+}
+.container .tui-text {
+  font-size: 24rpx;
+  color: #333;
+  padding-bottom: 8rpx;
+  text-align: justify;
+}
+.container .tui-size-28 {
+  font-size: 28rpx;
+}
+.container .tui-bold {
+  font-weight: bold;
+}
+.container .tui-ptop-8 {
+  padding-top: 8rpx;
+}
+.container .tui-ptop-24 {
+  padding-top: 24rpx;
+}
+

@@ -1,0 +1,31 @@
+
+.container {
+	padding: 20rpx 30rpx 40rpx 30rpx;
+	box-sizing: border-box;
+}
+.tui-title {
+	padding: 30rpx 0 20rpx;
+	font-size: 32rpx;
+	color: #333;
+	font-weight: bold;
+}
+.tui-flex-box {
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: start;
+	-webkit-justify-content: flex-start;
+	        justify-content: flex-start;
+	-webkit-box-align: start;
+	-webkit-align-items: flex-start;
+	        align-items: flex-start;
+	margin-bottom: 26rpx;
+}
+

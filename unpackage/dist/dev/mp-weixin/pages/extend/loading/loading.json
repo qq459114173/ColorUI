@@ -1,0 +1,11 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "Loading",
+  "usingComponents": {
+    "tui-loadmore": "/components/thorui/tui-loadmore/tui-loadmore",
+    "tui-nomore": "/components/thorui/tui-nomore/tui-nomore",
+    "tui-divider": "/components/thorui/tui-divider/tui-divider",
+    "tui-loading": "/components/thorui/tui-loading/tui-loading"
+  }
+}

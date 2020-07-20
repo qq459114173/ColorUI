@@ -1,0 +1,1 @@
+<view class="container"><tui-image-cropper vue-id="e75c040a-1" lockRatio="{{true}}" imageUrl="{{imageUrl}}" data-event-opts="{{[['^ready',[['ready']]],['^cropper',[['cropper']]]]}}" bind:ready="__e" bind:cropper="__e" bind:__l="__l"></tui-image-cropper></view>

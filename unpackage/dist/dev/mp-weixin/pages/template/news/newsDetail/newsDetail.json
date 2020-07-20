@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "新闻详情",
+  "backgroundColorTop": "#fff",
+  "backgroundColorBottom": "#fff",
+  "onReachBottomDistance": 0,
+  "usingComponents": {
+    "tui-tag": "/components/thorui/tui-tag/tui-tag",
+    "tui-icon": "/components/thorui/tui-icon/tui-icon",
+    "tui-list-cell": "/components/thorui/tui-list-cell/tui-list-cell",
+    "tui-badge": "/components/thorui/tui-badge/tui-badge",
+    "tui-loadmore": "/components/thorui/tui-loadmore/tui-loadmore",
+    "tui-nomore": "/components/thorui/tui-nomore/tui-nomore"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "问题反馈",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "tui-button": "/components/thorui/tui-button/tui-button"
+  }
+}

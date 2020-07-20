@@ -1,0 +1,35 @@
+
+.tui-timeaxis-item.data-v-0828228d {
+	position: relative;
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	margin-bottom: 25px;
+}
+.tui-timeaxis-node.data-v-0828228d {
+	position: absolute;
+	top: 0;
+	left: -20px;
+	-webkit-transform-origin: 0;
+	        transform-origin: 0;
+	-webkit-transform: translateX(-50%);
+	        transform: translateX(-50%);
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	z-index: 99;
+	background-color: #fafafa;
+	font-size: 24rpx;
+}
+

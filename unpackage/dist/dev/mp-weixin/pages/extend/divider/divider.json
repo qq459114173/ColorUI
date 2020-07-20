@@ -1,0 +1,9 @@
+{
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "分隔符",
+  "usingComponents": {
+    "tui-divider": "/components/thorui/tui-divider/tui-divider",
+    "tui-icon": "/components/thorui/tui-icon/tui-icon"
+  }
+}

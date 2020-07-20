@@ -1,0 +1,26 @@
+
+.header {
+	padding: 80rpx 90rpx 60rpx 90rpx;
+	box-sizing: border-box;
+}
+.title {
+	font-size: 34rpx;
+	color: #333;
+	font-weight: 500;
+}
+.sub-title {
+	font-size: 24rpx;
+	color: #7a7a7a;
+	padding-top: 18rpx;
+}
+.btn-box {
+	padding: 30rpx
+}
+.btn-box:first-child {
+	margin-top: 50rpx
+}
+.d-container {
+	width: 400rpx;
+	padding: 80rpx 30rpx
+}
+

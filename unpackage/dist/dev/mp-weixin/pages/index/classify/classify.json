@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "商品分类联动",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "backgroundColorTop": "#fcfcfc",
+  "backgroundColorBottom": "#fcfcfc",
+  "disableScroll": true,
+  "usingComponents": {
+    "t-linkage": "/components/views/t-linkage/t-linkage"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "alert弹框",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "tui-button": "/components/thorui/tui-button/tui-button",
+    "tui-alert": "/components/thorui/tui-alert/tui-alert"
+  }
+}

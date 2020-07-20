@@ -1,0 +1,9 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "Badge",
+  "usingComponents": {
+    "tui-badge": "/components/thorui/tui-badge/tui-badge",
+    "tui-icon": "/components/thorui/tui-icon/tui-icon"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "回到顶部",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "tui-button": "/components/thorui/tui-button/tui-button",
+    "tui-scroll-top": "/components/thorui/tui-scroll-top/tui-scroll-top"
+  }
+}
